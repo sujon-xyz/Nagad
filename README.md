@@ -27,7 +27,7 @@ The **Nagad Phishing Page Generator** is a tool designed for educational and sec
 - 💡 **Advanced UI:** Seamless user experience with an advanced UI.
 
 ## Usage
-1. 🌐 **Visit the website:** [https://bkash-web.vercel.app/](https://nagad-web.vercel.app/)
+1. 🌐 **Visit the website:** [https://nagad-web.vercel.app/](https://nagad-web.vercel.app/)
 2. 📝 **Enter your Telegram token** in the first input box.
 3. 🆔 **Enter your Telegram chat ID** in the second input box.
 4. 🖱 **Click on the "Generate" button.**
