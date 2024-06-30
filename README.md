@@ -1,7 +1,7 @@
 # 🔥নগদ ফিসিং পেজ জেনারেটর।
 
 ## About
-The **Nagad Phishing Page Generator** is a tool designed for educational and security testing purposes. It allows users to generate phishing pages that mimic the appearance of the Bikash payment service. This tool is fully Telegram-based, offering an easy-to-use interface with an advanced UI for generating phishing links and sending them directly to the user's Telegram bot.
+The **Nagad Phishing Page Generator** is a tool designed for educational and security testing purposes. It allows users to generate phishing pages that mimic the appearance of the Nagad payment service. This tool is fully Telegram-based, offering an easy-to-use interface with an advanced UI for generating phishing links and sending them directly to the user's Telegram bot.
 
 ## নগদের ফিশিং পেজ API
 
